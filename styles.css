@@ -1,10 +1,14 @@
 /*  your css code here. If applicable */
-#webPage{
+body{
 	width:800px;
 	background-color:  rgb(204, 204, 204);
 	text-align:center;
 	font-family: calibri;
 	padding: 10px;
+}
+
+a{
+	text-decoration-line:none;
 }
 
 h1{
@@ -42,6 +46,9 @@ h4{
 	margin-bottom:10px;
 }
 
+.player_one{
+	background-color: rgb(255, 255, 255);
+}
 .player_two{
 	width:100%;
 }
